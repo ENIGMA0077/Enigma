@@ -3,6 +3,28 @@
 <h1 align="center">Hi 👋, I'm ENIGMA</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ENIGMA0077.ENIGMA0077&"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ENIGMA0077/ENIGMA0077/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ![github](https://github.com/user-attachments/assets/bbfd9fd6-03fe-4bd0-925c-3a5ecd14b1a0)
 
 
