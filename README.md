@@ -1,6 +1,6 @@
 ![git2](https://github.com/user-attachments/assets/8268c578-3967-4781-954b-0e83cd3150ea)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Enigma and I'm a backend dev, from Uzbekistan</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-
+![github](https://github.com/user-attachments/assets/bbfd9fd6-03fe-4bd0-925c-3a5ecd14b1a0)
 
 ###
 
@@ -56,7 +56,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-![github](https://github.com/user-attachments/assets/bbfd9fd6-03fe-4bd0-925c-3a5ecd14b1a0)
+
 
 
 
