@@ -7,11 +7,6 @@ https://github.com/user-attachments/assets/79c4c51f-c97f-418b-ab81-88e0299f42cb
   <b>ENIGMA</b>
 </p>
 
-
-<p align="center">
-  <b>ENIGMA</b>
-</p>
-
 <h1 align="center">Hi 👋, I'm ENIGMA</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
