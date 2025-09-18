@@ -1,6 +1,12 @@
+https://github.com/user-attachments/assets/79c4c51f-c97f-418b-ab81-88e0299f42cb
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekSinghDhadwal/Awesome-README-templates/master/matrix-hacker.gif" alt="ENIGMA" width="600"/>
+  <img src="giphy.gif" alt="ENIGMA" width="600"/>
 </p>
+
+<p align="center">
+  <b>ENIGMA</b>
+</p>
+
 
 <p align="center">
   <b>ENIGMA</b>
