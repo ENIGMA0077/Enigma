@@ -1,4 +1,6 @@
-![git2](https://github.com/user-attachments/assets/8268c578-3967-4781-954b-0e83cd3150ea)<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![git2](https://github.com/user-attachments/assets/8268c578-3967-4781-954b-0e83cd3150ea)
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
