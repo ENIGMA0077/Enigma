@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/DwMzMvk/hacker-room-matrix.gif" alt="ENIGMA" width="600"/>
+  <img src="https://raw.githubusercontent.com/AbhishekSinghDhadwal/Awesome-README-templates/master/matrix-hacker.gif" alt="ENIGMA" width="600"/>
 </p>
 
 <p align="center">
