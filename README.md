@@ -1,12 +1,14 @@
+![git2](https://github.com/user-attachments/assets/8268c578-3967-4781-954b-0e83cd3150ea)
+
 https://github.com/user-attachments/assets/79c4c51f-c97f-418b-ab81-88e0299f42cb
 <p align="center">
   <img src="giphy.gif" alt="ENIGMA" width="600"/>
 </p>
 
+
+
 ![github](https://github.com/user-attachments/assets/bbfd9fd6-03fe-4bd0-925c-3a5ecd14b1a0)
-<p align="center">
-  <b>ENIGMA</b>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm ENIGMA</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
